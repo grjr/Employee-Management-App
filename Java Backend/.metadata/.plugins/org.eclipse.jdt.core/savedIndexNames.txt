@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+G:\My Notes\New Beginning\Personal Projects\EmployeeManagemetApp JavaSpringReact\.metadata\.plugins\org.eclipse.jdt.core
+621703007.index
+1865797976.index
+2121580379.index

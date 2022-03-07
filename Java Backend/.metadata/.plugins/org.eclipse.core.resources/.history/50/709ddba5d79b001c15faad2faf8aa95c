@@ -1,0 +1,5 @@
+package com.gj.empmgtapp.entities;
+
+public class Employee {
+
+}

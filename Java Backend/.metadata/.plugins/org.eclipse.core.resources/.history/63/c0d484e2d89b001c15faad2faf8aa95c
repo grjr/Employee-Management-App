@@ -1,0 +1,11 @@
+package com.gj.empmgtapp.entities;
+
+public class Employee {
+	
+	private int id;
+	private String firstname;
+	private String lastname;
+	private int age;
+	private String email;
+
+}

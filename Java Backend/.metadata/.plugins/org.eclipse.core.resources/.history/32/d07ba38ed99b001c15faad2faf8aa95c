@@ -1,0 +1,9 @@
+package com.gj.empmgtapp.repos;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.gj.empmgtapp.entities.Employee;
+
+public interface EmployeeRepository extends JpaRepository<Employee, Integer> {
+
+}
